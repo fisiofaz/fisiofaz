@@ -14,7 +14,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="git" width="20" height="20"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="figma" width="20" height="20"/>
-  <img src="https://https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="github" width="20" height="20"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="github" width="20" height="20"/>
 </p>
 
 <p align="center">
