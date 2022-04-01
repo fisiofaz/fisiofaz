@@ -2,7 +2,7 @@
 <h3 align="center">Sou aluno em Web Developer start programming</h3>
 <p align="left"> <img src="https://i.imgur.com/pIGUlCo.jpg?1" alt="fabiozatta" /> </p>
 
-- - 💬 Ask me about **JavaScript, HTML, CSS, SQL**
+- - 💬 Ask me about **JavaScript, HTML, CSS**
 
 - 📫 How to reach me **fisiofaz8@gmail.com**
 
