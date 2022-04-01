@@ -19,7 +19,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/f%C3%A1bio-zatta-bb2212177/" target="blank"><img align="center" alt="fabiozatta" height="20" width="20" /></a>
-<a href="https://www.instagram.com/fisiofaz8/?hl=pt-br" target="blank"><img align="center" alt="fabiozatta" height="20" width="20" /></a>
+<a href="https://www.instagram.com/fisiofaz8/" target="blank"><img align="center" alt="fabiozatta" height="20" width="20" /></a>
 </p>
 
 
