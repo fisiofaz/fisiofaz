@@ -1,6 +1,6 @@
  ### Bem-vindo(a) ao perfil do Fábio André Zatta 😁
 
-# Me chamo, Fábio Andre Zatta, tenho 45, sou formado em Fisioterapia a 20 anos, e estudo Programação Web e Analise e Desenvolvimento de Sistema há dois anos e estou fazendo transição de carreira
+Me chamo, Fábio Andre Zatta, tenho 45, sou formado em Fisioterapia a 20 anos, e estudo Programação Web e Analise e Desenvolvimento de Sistema há dois anos e estou fazendo transição de carreira
 
 ### Conecte-se comigo
  
